@@ -43,7 +43,7 @@ void hola(void) {
 }
 ```
 
-**main.c**
+**main.cpp**
 ``` cpp
 #include "modulo.hpp"
 
