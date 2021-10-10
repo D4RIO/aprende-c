@@ -5,7 +5,7 @@ En C++, igual que en C, la compilación se hace en varias etapas:
  - Ensamblado
  - Enlazado
 
-La modularización se da en las etapas de **preprocesado** mediante la inclusión de cabeceras, y en la etapa de enlazado, ya sea que el linker sea estático o dinámico, cuando se enlazan efectivamente módulos compilados por separado.
+La modularización se da en las etapas de **preprocesado** mediante la inclusión de cabeceras, y de **enlazado**, ya sea que el linker sea estático o dinámico, cuando se enlazan efectivamente módulos compilados por separado.
 
 # Modularización con enlazado estático
 
